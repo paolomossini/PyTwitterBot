@@ -1,11 +1,11 @@
 # PyTwitterBot
-PyTwitterBot is a TwitterBot written in Python. This project allows you to perform some intresting operations on a Twitter account such as: 
+PyTwitterBot is a TwitterBot written in Python. This project allows you to perform some interesting operations on a Twitter account such as: 
 - Post articles from different websites
 - Retweet using a key-word
 - Generate a chart of Twitter trends
 
 ### Configuration
-In order to configurate the script you have to fill the TwitterConfig.txt file with the credentials of your Twitter application (previously created in your Twitter developer account):
+In order to configure the script you have to fill the TwitterConfig.txt file with the credentials of your Twitter application (previously created in your Twitter developer account):
 ```
 consumer_key=
 consumer_secret_key=
